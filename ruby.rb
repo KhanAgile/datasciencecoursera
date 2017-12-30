@@ -1,5 +1,5 @@
-class Example
+class RubyExample
   def output
-    puts 'This is a statement!'
+    print "Hello World!"
   end
 end
