@@ -1,5 +1,5 @@
 class Example
   def output
-    puts 'Hello World!'
+    puts 'This is a statement!'
   end
 end
